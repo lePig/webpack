@@ -1,0 +1,1 @@
+document.write("<h1>Main1.js</h1>")
